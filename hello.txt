@@ -1,1 +1,1 @@
-hello file is added. this is from master
+hello file is edited from feature2
